@@ -1,4 +1,4 @@
-ropertyFinder Sync & Custom Elementor Real Estate Dropshipping System
+#PropertyFinder Sync & Custom Elementor Real Estate Dropshipping System
 An advanced, enterprise-grade WordPress integration system that synchronizes property listings and real estate agents from the official PropertyFinder Atlas API (v1) and renders them dynamically using custom Elementor templates, custom post types (CPTs), ACF (Advanced Custom Fields) Pro, and AJAX infinite scroll.
 
 This system operates similarly to a "dropshipping" model for real estate, where property data is pulled in real-time/on-schedule from a centralized API and displayed as native listings on a custom front-end website with local agents mapped automatically.
